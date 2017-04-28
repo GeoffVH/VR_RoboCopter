@@ -1,4 +1,4 @@
-# hicat :cat:
+# Google Cardboard VR project :spaceship:
 
 <img src="http://ricostacruz.com/hicat/hicat.gif">
 
