@@ -2,42 +2,19 @@
 
 <img src="http://www.roadtovr.com/wp-content/uploads/2014/12/google-cardboard-android-virtual-reality.jpg">
 
-`cat` with syntax highlighting. The language is auto-detected through the file 
-extension.
+Overview
+------------
 
-    hicat index.js
+A VR project built by a team of 5, because we thought VR was fun. We were right. 
+Project also allowed our team to practice SCRUM management.
 
-Pipe something to `hicat`. The language will be inferred from the contents.
 
-    curl http://site.com | hicat
-
-If hicat fails to detect a language, specify it using `-l LANG`.
-
-    curl http://site.com | hicat -l xml
-
-[![Status](https://github.com/GeoffVH/VR_RoboCopter/tree/master)](https://github.com/GeoffVH/VR_RoboCopter)  
 
 Installation
 ------------
 
-    $ npm install -g hicat
-
-[![npm version](https://badge.fury.io/js/hicat.svg)](https://npmjs.org/package/hicat "View this project on npm")
-
-Usage:
-
-    $ hicat --help
-
-      Usage:
-          hicat [options] FILE
-          ... | hicat [options]
-
-      Options:
-          -h, --help         print usage information
-          -v, --version      show version info and exit
-          -l, --lang LANG    use a given language
-              --languages    list available languages
-              --no-pager     disable the pager
+    Download VRrobocopter.apk and install it on your android phone
+    
 
 Tips and tricks
 ---------------
