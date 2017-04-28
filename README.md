@@ -1,6 +1,6 @@
-# Google Cardboard VR project :arrow:
+# Google Cardboard VR project
 
-<img src="http://ricostacruz.com/hicat/hicat.gif">
+<img src="http://www.roadtovr.com/wp-content/uploads/2014/12/google-cardboard-android-virtual-reality.jpg">
 
 `cat` with syntax highlighting. The language is auto-detected through the file 
 extension.
