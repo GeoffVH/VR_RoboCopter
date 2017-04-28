@@ -1,4 +1,4 @@
-# Google Cardboard VR project
+# Google Cardboard VR project - RoboCopter
 
 <img src="http://www.roadtovr.com/wp-content/uploads/2014/12/google-cardboard-android-virtual-reality.jpg">
 
